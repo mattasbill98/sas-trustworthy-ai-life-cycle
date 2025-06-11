@@ -15,7 +15,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "sassoftware", // Usually your GitHub org/user name.
+  organizationName: "mattasbill98", // Usually your GitHub org/user name.
   projectName: "sas-trustworthy-ai-life-cycle", // Usually your repo name.
 
   onBrokenLinks: "throw",
